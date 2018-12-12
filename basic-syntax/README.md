@@ -24,3 +24,17 @@ print(A) ->
     io:format("~p", [A]),
     io:nl().
 ```
+Output is as follows:
+
+```
+'Simulating Eshell Output:'
+17
+2.5
+2
+1
+14.5
+42
+2.3e3
+0.0023
+ok
+```
